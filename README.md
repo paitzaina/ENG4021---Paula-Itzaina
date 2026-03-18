@@ -1,3 +1,2 @@
-# ENG4021---Paula-Itzaina
-Repositório Paula Itzaina
-GRUPO 1
+# ENG4021 - Grupo 1
+Repositório Bruno, Gabriela, Letícia, Lucas e Paula
